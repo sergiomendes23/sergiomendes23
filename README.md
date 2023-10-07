@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♂️ My name is Sérgio Mendes. I'm 31 yo;
 
-- 💻 Mobile iOS Developer | Swift
+- 💻 iOS Mobile Developer | Swift
 
 - 🎓 Graduated in social communication;
 
